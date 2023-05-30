@@ -1,0 +1,5 @@
+1: The data folder contains data sets scene15
+2: utils contains important functions such as calculation of mixed matrix and classification.
+3: demo1_DADL_AOLP_loss.m takes UCF-50 data set as an example to draw loss function to prove the convergence of the algorithm.
+4: demo2_DADL_AOLP_para.m Indicates the influence of each hyperparameter on the classification result using scene15 data set as an example.
+5: demo3_DADL_AOLP_visualize.m This section uses a scene15 data set as an example to visualize the classification result by using a classification label and confusion matrix.
